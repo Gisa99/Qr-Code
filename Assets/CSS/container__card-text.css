@@ -1,0 +1,18 @@
+
+.container__card-text  {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding: 12px;
+
+}
+
+.container__card-text h1{
+    font-size: 16.5px;
+    color: #233551;
+}
+
+.container__card-text p{
+    font-size: 12px;
+    margin-top: 15px;
+    color:#727777;
+}
